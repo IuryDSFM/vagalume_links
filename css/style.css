@@ -1,0 +1,25 @@
+#logo{
+    width: 50px;
+}
+.link{
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.links{
+    width: 80%;
+    background-color: #0d6efd ;
+    padding: 5px 0 5px 0;
+    margin: 5px 0 5px 0;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.links:visited{
+    color: black;
+}
+.links:hover{
+    transition: 0.3s;
+    background-color: #8f8f8f ;
+}
